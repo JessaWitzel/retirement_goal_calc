@@ -6,21 +6,21 @@ To do these calculations, the retirement_goal_calc will use information from the
 
 
 Information to GET from YNAB API: 
-  Mortgage Balance /budgets/Mortgage
-  Investment Account Balance (added together if multiple accounts) /budgets/{Account}
+  *Mortgage Balance /budgets/Mortgage
+  *Investment Account Balance (added together if multiple accounts) /budgets/{Account}
   
 Information to GET from USER:
-  Mortgage interest rate
-  Life of Loan Left
-  Target Retirement Date
-  Estimated Investment Rate of Return
-  Name of Mortgage Budget Item
-  Name of Investments Budget Item
+  *Mortgage interest rate
+  *Life of Loan Left
+  *Target Retirement Date
+  *Estimated Investment Rate of Return
+  *Name of Mortgage Budget Item
+  *Name of Investments Budget Item
   
 Calculations:
-  Principal Payment Required to Pay off House By Target Date
-  Required Total Investment for Desired Dividend
-  Compound Interest on Investment
-  Boolean for Current Rate match Future Goal
+  *Principal Payment Required to Pay off House By Target Date
+  *Required Total Investment for Desired Dividend
+  *Compound Interest on Investment
+  *Boolean for Current Rate match Future Goal
   
   
