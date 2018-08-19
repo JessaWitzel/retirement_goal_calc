@@ -1,0 +1,16 @@
+{
+  "data": {
+    "account": {
+      "id": "string",
+      "name": "string",
+      "type": "checking",
+      "on_budget": true,
+      "closed": true,
+      "note": "string|null",
+      "balance": 0,
+      "cleared_balance": 0,
+      "uncleared_balance": 0,
+      "deleted": true
+    }
+  }
+}
